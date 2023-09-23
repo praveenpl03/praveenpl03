@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-<img src="Developer.gif" width=100%>
+
 
 <h2 align="center">About me</h2>
 
 ```golang
 package main
 
-import "@praveen/skils";
+import "@praveen";
 
 func json get_skills(){
 return skill{
@@ -22,7 +22,6 @@ return skill{
                Angular,
                HTML,
                CSS,
-               SCASS,
                XMARIN,
                Android Java,
                Flutter,
