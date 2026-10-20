@@ -30,7 +30,7 @@ return skill{
                Drupal,
                GTK
                },
-"Servers_Experienced" : {
+"Server Fav" : {
                     Redhat 7,
                     Win Server [2003,2012],
                     Ubuntu 18
